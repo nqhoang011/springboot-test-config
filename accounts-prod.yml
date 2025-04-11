@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related PROD APIs"
+  message: "Welcome to accounts related production APIs"
   contactDetails:
     name: "Hoang Nguyen - Product Owner"
     email: "hoangnq011@gmail.com"
