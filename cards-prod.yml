@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 cards:
-  message: "Welcome to cards related docker APIs"
+  message: "Welcome to cards related prod APIs"
   contactDetails:
     name: "Hoang Nguyen - Product Owner"
     email: "hoangnq011@gmail.com"
